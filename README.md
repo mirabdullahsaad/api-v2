@@ -15,7 +15,8 @@ to sign in post data to /v1/signin
         "password":"12345678"
     }
     
-to get all dataset send get request to /v1/get-user-data
+to get all dataset send get request with authorization token from sign in process in the header to /v1/get-user-data 
+
 
 to broadcast data send get request to /broadcast
 
