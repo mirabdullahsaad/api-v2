@@ -21,3 +21,5 @@ to get all dataset send get request with authorization token from sign in proces
 to broadcast data send get request to /broadcast
 
 to listen to broadcast data open /listen
+
+use the web route instead api route because use the subdomain api while testing
